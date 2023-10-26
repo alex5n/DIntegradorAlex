@@ -216,9 +216,16 @@ Crear un front-end minimalista para poder interactuar con el contrato de `Public
 # Completar
 
 1. Pega aquí la tx de una compra de un NFT `común` en `Public Sale` usando `UDSC`:
+0xb16469d87d7242d7da74130fe817192bbc642576dd28e2736dedb55a893e286e
 2. Pega aquí la tx de una compra de un NFT `raro` en `Public Sale` usando `BBTKN`:
+0x9552845be275d6a42ce720942e687ed9e48a06100aed1baded5a0b444cf230d2
 3. Pega aquí la tx de una compra de un NFT `legendario` en `Public Sale` usando `UDSC`:
+0x5266272f40c5bc3dabcd9bfce42940d7fcce5dbdb18b781f6bee5fc79aa23e3b
 4. Pega aquí la tx de una compra de un NFT `mistico` en `Public Sale` usando `ether` y un `id` en específico:
+0x10663fa587b4655126634d3dc38b33e93b9348a70847a1e1eab2f4dabe3dfc95
 5. Pega aquí la tx de una compra de un NFT `mistico` en `Public Sale` usando `ether` (random id):
+0x6214c26f63c020ccd219c12e0d031a53444948bfb966924fd4b484d5c021cc67
 6. Pega aquí la tx de una acuñación whitelist de un NFT en el contrato `NFT`:
+0x63f3900592ec1d3f5a609a8b155e9685184ca250241cdcb1d306f0deb1a39718
 7. Pega aquí la tx de un buy back de NFT en el contrato `NFT`:
+0xa681fe5af64b427fb14ae5bbd4c0914c5dd8c9154b1dc254c66f8033477d1d9b
